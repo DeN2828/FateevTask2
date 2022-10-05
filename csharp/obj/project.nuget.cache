@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9f0CU80QMjDA5HWrM6OO/RzvTi/LnaQO5uP6OK4KLJmnuRJ34pqbGCPdR5ktmN5IarHBXkRt15dVPDZOsJEzCw==",
+  "dgSpecHash": "pOmaVIt4qs4bK2xi+SEcbItBm0E2XgbbGZYhrUNNDpd2TM4nBK9XqgzNqqEu18e6NLAtJ7wwWE/XqjMhjqc+sA==",
   "success": true,
-  "projectFilePath": "/Users/tim/Projects/csharp/csharp/csharp.csproj",
+  "projectFilePath": "/Users/tim/Projects/FateevTask2/csharp/csharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

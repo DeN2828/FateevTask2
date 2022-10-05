@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tim/Projects/csharp/csharp/csharp.csproj",
+      "projectUniqueName": "/Users/tim/Projects/FateevTask2/csharp/csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "/Users/tim/Projects/csharp/csharp/csharp.csproj",
+      "projectPath": "/Users/tim/Projects/FateevTask2/csharp/csharp.csproj",
       "packagesPath": "/Users/tim/.nuget/packages/",
-      "outputPath": "/Users/tim/Projects/csharp/csharp/obj/",
+      "outputPath": "/Users/tim/Projects/FateevTask2/csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tim/.nuget/NuGet/NuGet.Config"
