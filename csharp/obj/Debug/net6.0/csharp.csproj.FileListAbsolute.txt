@@ -1,0 +1,15 @@
+/Users/tim/Projects/csharp/csharp/bin/Debug/net6.0/csharp
+/Users/tim/Projects/csharp/csharp/bin/Debug/net6.0/csharp.deps.json
+/Users/tim/Projects/csharp/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/Users/tim/Projects/csharp/csharp/bin/Debug/net6.0/csharp.dll
+/Users/tim/Projects/csharp/csharp/bin/Debug/net6.0/csharp.pdb
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.dll
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/refint/csharp.dll
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.pdb
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/Users/tim/Projects/csharp/csharp/obj/Debug/net6.0/ref/csharp.dll
