@@ -1,7 +1,7 @@
 ﻿Console.BackgroundColor = ConsoleColor.Red;
 Console.WriteLine("enater date in format DD.MM.YYYY ");
 string[] dates = Console.ReadLine().Split('.');
-Console.BackgroundColor = ConsoleColor.Black;
+Console.BackgroundColor = ConsoleColor.Blue;
 int[] dateNums = new int[3];
 dateNums[0] = int.Parse(dates[1]);
 dateNums[1] = int.Parse(dates[0]);
@@ -77,4 +77,5 @@ else if (age > 28)
     Console.WriteLine("no moon");
 }
 Console.WriteLine("  ");
+Console.BackgroundColor = ConsoleColor.Black;
 Console.WriteLine(" Fateev hotfix ");
